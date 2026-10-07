@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Social Media/Youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.4776007,6.46131897 C24.1900797,5.37870789 23.3429433,4.52607727 22.2673373,4.23672485 C20.3177242,3.7109375 12.5,3.7109375 12.5,3.7109375 C12.5,3.7109375 4.68232155,3.7109375 2.73266268,4.23672485 C1.65705669,4.52612305 0.809920276,5.37870789 0.522399265,6.46131897 C0,8.4236145 0,12.5177612 0,12.5177612 C0,12.5177612 0,16.611908 0.522399265,18.5742035 C0.809920276,19.6568146 1.65705669,20.4739227 2.73266268,20.7632751 C4.68232155,21.2890625 12.5,21.2890625 12.5,21.2890625 C12.5,21.2890625 20.3176784,21.2890625 22.2673373,20.7632751 C23.3429433,20.4739227 24.1900797,19.6568146 24.4776007,18.5742035 C25,16.611908 25,12.5177612 25,12.5177612 C25,12.5177612 25,8.4236145 24.4776007,6.46131897 Z M9.94316413,16.2349396 L9.94316413,8.80058289 L16.477229,12.5178528 L9.94316413,16.2349396 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-987.000000, -348.000000)">
+            <g id="Group-10">
+                <g id="Social-Media/Youtube" transform="translate(988.500000, 349.000000)">
+                    <circle id="Border" stroke="#F8F8F8" stroke-width="1.60000002" fill="#000000" fill-rule="evenodd" opacity="0.300000012" cx="24.0000004" cy="24.0000004" r="24.0000004"></circle>
+                    <g id="Brands/youtube" opacity="0.5" transform="translate(12.000000, 11.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Color/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                            <rect id="Color/black" x="0" y="0" width="25" height="25"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
